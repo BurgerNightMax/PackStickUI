@@ -1,0 +1,25 @@
+###################
+#stickspeed
+
+#Id de l'item qui Ferat le stick
+stickspeed: "359"
+#merci de remettre l'id de l'item ici
+stickSremove: "359"
+#Ici rentre le niveau du sort EX:speed 2. ATTENTION 0=1 1=2... 
+niveauxS: "1"
+
+#stickstrenght2
+
+stickforce: "284" 
+stickFremove: "284"
+niveauxF: "2"
+
+#HealStick
+
+HealStick: "282"
+healSremove: "282"
+#ici c'est les coeur qui. S'ajouteront quand vous utiliserez le 
+#stick attention 1=0,5 donc pour avoir 1 cœur faut mettre 2 et ect
+cœur: "4"
+#aussi simple ;)
+#################
